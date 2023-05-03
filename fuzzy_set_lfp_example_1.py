@@ -1,5 +1,7 @@
-This is author Dr.Moumita Deb
+"""
+Author: Dr.Moumita Deb
 This code are used for solution of Fuzzy multiobjective linear fractional programming problems
+"""
 
 # Import all classes of PuLP module
 from pulp import *
