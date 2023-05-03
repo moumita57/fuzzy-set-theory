@@ -1,1 +1,3 @@
-- 👋 Hi, I’m Dr Moumita Deb(@moumita57)
+To run these programs, please install pulp package using:
+
+python -m pip install pulp
