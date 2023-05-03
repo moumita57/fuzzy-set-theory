@@ -1,5 +1,8 @@
-This is author @Dr.Moumita Deb
+"""
+Author: Dr.Moumita Deb
 This file contains solution of fuzzy multiobjective linear fractional programming problem(Part 2)
+"""
+
 # Import all classes of PuLP module
 from pulp import *
 
